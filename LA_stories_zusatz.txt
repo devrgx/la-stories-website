@@ -1,0 +1,50 @@
+Teamleitung
+	+ rgx
+	
+Stv. Teamleitung
+	+ Basti
+	+ Severim
+	
+Leitender Developer
+	+ Lucas
+	
+Sr. Developer
+	+ Kowalski
+	+ LostFHallo
+	
+Developer
+	+ 
+	
+Jr. Developer
+	+
+	
+Test Developer
+	+ 	
+	
+Car developer
+	+ Kowalski
+
+FrakVEr
+	+ Cartex
+	+ Ducki
+	+ Laurin
+	
+Event Manager
+	+ Cartex
+	+ Ducki
+	+ Laurin
+	+ rg
+	
+Jobcreator
+	+ Cartex
+	+ Ducki
+	+ Laurin
+	+ rg
+	+ Kowalski
+	+ LostFHallo
+
+Streaminglizenz
+	+ rg
+	+ Disney
+	+ CNOIYSU
+	+ carhub

@@ -1,0 +1,70 @@
+Projektinhaber
+	+ Ducki
+	+ Laurin
+	
+Stv. Projektinhaber
+	+ Lucas
+	+ Sharky
+	
+Projektleitung
+	+ Cartex
+	
+Stv. Projektleitung
+	+ 
+	
+Leit. Management
+	+ rg
+	
+Manager 
+	+
+
+Stv. Manager
+	+
+
+Projektverwaltung
+	+ Basti
+	+ Phoenix
+	
+Stv. Projektverwaltung
+	+
+	
+Head Admin
+	+ Niki
+
+Sr. Admin
+	+
+	
+Admin
+	+
+	
+Jr. Admin
+	+
+	
+Head Moderator
+	+ 
+
+Sr. Moderator
+	+
+
+Moderator
+	+
+	
+Jr. Moderator
+	+
+	
+Support Leitung
+	+
+	
+Head Supporter
+	+
+	
+Sr. Supporter
+	+
+	
+Supporter
+	+
+
+Test Supporter
+	+
+	
+	
